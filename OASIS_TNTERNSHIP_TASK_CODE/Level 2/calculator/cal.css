@@ -1,0 +1,28 @@
+body{
+    margin-top: 150px;
+    position: relative;
+    left: 45%;
+}
+#cal{
+    background-color: #ccc;
+    border: 1px solid #686363;
+    border-radius: 5px;
+    width: 200px;
+}
+#display{
+    color: #3d2d2d;
+    margin: 10px;
+    width: 160px; 
+    font-size: 25px;
+}
+.Button_container{
+    background-color: #ccc;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.Button{
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+}

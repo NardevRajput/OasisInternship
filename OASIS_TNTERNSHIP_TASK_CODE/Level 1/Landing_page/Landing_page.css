@@ -1,0 +1,147 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+#back{
+    font-family: Arial, sans-serif;
+    background-image: linear-gradient(to right,rgb(226, 214, 47),rgb(194, 170, 64));
+}
+
+.contact{
+    background-image: linear-gradient(to right,rgb(235, 194, 108),rgb(145, 138, 77));
+    height: 35px;
+    color: whitesmoke;
+    font-size: 25px;
+    padding: 15px;
+}
+
+i{
+    color: white;
+    padding-left: 150px;
+    margin-top: 4px;
+}
+
+a{
+    margin-right: 50px;
+    color: black;
+}
+
+#navbar{
+    background-image: linear-gradient(to right,rgb(204, 191, 78),rgb(211, 205, 120));
+    height: 50px;
+    padding: 10px;
+    color: black;
+}
+
+.landing{
+    height: 800px;
+    background-image: url("Images/ai-generated-8327632_1280.webp");
+    background-size: cover;
+    h2{
+        font-size: 30px;
+        color: rgb(10, 8, 8);
+        padding-left: 150px;
+        padding-top: 90px;
+    }
+    h4{
+        font-size: 25px;
+        color: rgb(0, 0, 0);
+        padding-left: 150px;
+        padding-top: 10px;
+    }
+    p{
+        font-size: 20px;
+        color: rgb(14, 12, 12);
+        padding-left: 150px;
+    }
+}
+
+.about{
+    font-size: 25px;
+    i{
+        margin-left: 20px;
+    }
+    p{
+        color: white;
+    }
+    height: 70px;
+    margin-top: 30px;
+}
+
+#foot{
+    background-color: white;
+}
+
+#foot{
+    padding: 55px 30px 10px 150px;
+}
+
+#btn{
+    height: 40px;
+    width: 100px;
+    border-radius: 30%;
+    background-image: linear-gradient(to right,rgb(76, 228, 248),rgb(128, 143, 140));
+    text-decoration: white;
+    margin-top: -100px;
+}
+
+#img{
+    background-image: url("Images/th\ \(4\).jpeg");
+    margin-top: -90px;
+    height: 200px;
+    width: 300px;
+    margin-left: 727px;
+}
+
+#servies{
+    i{
+        color: black;
+        padding: 0%;
+        margin-top: auto;
+        margin-right: 75px;
+    }
+    h3{
+        margin-top: 140px;
+    }
+}
+
+#exp{
+    background-image: url("Images/th\ \(1\).jpeg");
+    height: 150px;
+    width: 150px;
+    margin-left: 20px;
+    background-size: cover;
+}
+#cd{
+    background-image: url("Images/th\ \(2\).jpeg");
+    height: 150px;
+    width: 150px;
+    margin-left: 40px;
+    background-size: cover;
+}
+#dm{
+    background-image: url("Images/th.jpeg");
+    height: 150px;
+    width: 150px;
+    margin-left: 60px;
+    background-size: cover;
+}
+#wd{
+    background-image: url("Images/th\ \(3\).jpeg");
+    height: 150px;
+    width: 150px;
+    margin-left: 80px;
+    background-size: cover;
+}
+
+#copyright{
+    background-image: linear-gradient(to right,rgb(117, 105, 67),rgb(214, 191, 60));
+    height: 100px;
+    padding: 55px 30px 10px 150px;
+    margin: 0%;
+    h2{
+        color: black;
+    }
+}
